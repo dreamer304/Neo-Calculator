@@ -30,5 +30,5 @@ To contribute to the project:
 
 ## Credits
 
-- Mazim Mammadov https://github.com/dreamer304 - Creator
+- Nazim Mammadov https://github.com/dreamer304 - Creator
 
